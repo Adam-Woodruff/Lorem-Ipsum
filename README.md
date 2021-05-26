@@ -1,2 +1,2 @@
 # Lorem-Ipsum
-Simple java script project
+Simple JavaScript project
