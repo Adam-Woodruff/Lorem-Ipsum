@@ -1,0 +1,38 @@
+body{
+    background-color: #faf8ef;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 600;
+    font-size: 3vh;
+}
+.container{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    background-color: #eee4da;
+    color: #776e65;
+}
+
+.InputBox{
+    border: 2px solid ;
+    color: #8f7a66;
+    background-color: #f9f6f2;
+}
+
+.bottom-paragraph{
+    padding-top: 20px;
+}
+
+.bottom-wrapper{
+    color: #bbada0;
+}
+
+.clean-link{
+    text-decoration: none;
+    color: #bbada0;
+}
